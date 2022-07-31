@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  background-color: black;
+  cursor: move;
+}
+h1 {
+  color: whitesmoke;
+}
+h2 {  
+ background-color: whitesmoke;
+ color: black; padding: 10px;
+ text-shadow:1px 1px blue;
+}
+h3, h4 {
+ background-color: black;
+ color: whitesmoke; padding: 10px;
+}
+ul { 
+  background-color: black;
+  color: whitesmoke; padding: 10px;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 15px;
+  text-align: left;
+}
+img {
+  border: 7px solid #999
+}
+p {
+  background-color: black;
+  color: whitesmoke;
+  font-family: verdana;
+  border: 15px;
+}
+
+
